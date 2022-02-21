@@ -1,1 +1,1 @@
-# NeoTlhoki
+# NeoTlhoki practice website
