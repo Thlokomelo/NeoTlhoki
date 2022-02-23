@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # My Interests
 I'm interested in teaching novice coders about computer science!
 # My Blog
@@ -10,3 +11,6 @@ I'm really excited to blog my journey on GitHub.com.
 <li><a href="https://github.com/{{ site.github_username
 }}">GitHub</a></li>
 </ul>
+=======
+# NeoTlhoki practice website
+>>>>>>> eccf02740a020707076966e5a1b3b419baf322dc
